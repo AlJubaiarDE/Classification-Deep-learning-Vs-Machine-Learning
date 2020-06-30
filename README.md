@@ -45,7 +45,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 -|
 Al Jubaiar
 ## Credits
-- [Breast Cancer Wisconsin (Diagnostic) Kaggle Kernels](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/kernels) - Helps me with Machine leaning prediction model more depthly.
+- [Breast Cancer Wisconsin (Diagnostic) Kaggle Kernels](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/kernels) - Helped me with Machine leaning prediction model more depthly.
 
 
 
