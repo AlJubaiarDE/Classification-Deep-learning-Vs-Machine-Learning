@@ -28,7 +28,12 @@ pip install -r requirements.txt
 - Pandas
 - Matplotlib
 - Seaborn
-
+## Directory Tree 
+```
+├── Machine Learning.ipynb
+├── Deep Learning.ipynb
+└── README.md
+```
 
 
 
