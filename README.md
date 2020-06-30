@@ -1,17 +1,11 @@
-# Deep-learning-Vs-Machine-Learning
+# Deep-learning Vs Machine-Learning
 
 
-https://i.morioh.com/3200ec8451.png
-On this project, I will be working on a Classification problem from kaggle.
+<a><img src="https://i.morioh.com/3200ec8451.png" title="Deep Learning vs Machine Learning" ></a>
 
-https://www.kaggle.com/wordsforthewise/lending-club 
 
-I will try to predict the outcome firstly by deep learning Keras libraries and then also on Machine learning libraries. And will explore the prediction results.
+## Overview
+This project is a simple classification problem. I tried to solve and predict through Deep learning model & Machine learning model. After creating the model I tried to observe the differnce of the result. The data can be found on Kaggle, to be exact : https://www.kaggle.com/wordsforthewise/lending-club
 
-# Deep Learning
+Given historical data on loans given out with information on whether or not the borrower defaulted(charge-off), can we build a model that can predict whether or nor a borrower will pay back their loan?
 
-In the Deep learning part I have covered -
-
-*Exploratory Data Visulization
-*Data Cleaning*
-*Feature Engineering*
