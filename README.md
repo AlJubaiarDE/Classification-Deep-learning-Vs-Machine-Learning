@@ -38,5 +38,8 @@ pip install -r requirements.txt
 ![Al Jubaiar](https://avatars1.githubusercontent.com/u/66907963?s=460&u=2721656626c1ab9082e2eb781da74a760acc33bf&v=3&s=20)|
 -|
 Al Jubaiar
+## Credits
+- [Breast Cancer Wisconsin (Diagnostic) Kaggle Kernels](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/kernels) - Helps me with Machine leaning prediction model more depthly.
+
 
 
