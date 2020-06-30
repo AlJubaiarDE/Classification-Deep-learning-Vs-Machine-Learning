@@ -34,6 +34,12 @@ pip install -r requirements.txt
 ├── Deep Learning.ipynb
 └── README.md
 ```
+
+## Bug / Feature Request
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/AlJubaiarDE/Classification-Deep-learning-Vs-Machine-Learning/issues/new) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/AlJubaiarDE/Classification-Deep-learning-Vs-Machine-Learning/issues/new). Please include sample queries and their corresponding results.
+
 ## Team
 ![Al Jubaiar](https://avatars1.githubusercontent.com/u/66907963?s=460&u=2721656626c1ab9082e2eb781da74a760acc33bf&v=3&s=20)|
 -|
