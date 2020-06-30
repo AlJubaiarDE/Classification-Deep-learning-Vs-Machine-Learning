@@ -1,4 +1,7 @@
 # Deep-learning-Vs-Machine-Learning
+
+
+https://i.morioh.com/3200ec8451.png
 On this project, I will be working on a Classification problem from kaggle.
 
 https://www.kaggle.com/wordsforthewise/lending-club 
