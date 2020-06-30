@@ -9,6 +9,6 @@ I will try to predict the outcome firstly by deep learning Keras libraries and t
 
 In the Deep learning part I have covered -
 
-*Exploratory Data Visulization*
+*Exploratory Data Visulization
 *Data Cleaning*
 *Feature Engineering*
