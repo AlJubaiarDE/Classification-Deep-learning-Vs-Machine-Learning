@@ -34,6 +34,9 @@ pip install -r requirements.txt
 ├── Deep Learning.ipynb
 └── README.md
 ```
-
+## Team
+![Al Jubaiar](https://avatars1.githubusercontent.com/u/66907963?s=460&u=2721656626c1ab9082e2eb781da74a760acc33bf&v=3&s=20)|
+-|
+Al Jubaiar
 
 
